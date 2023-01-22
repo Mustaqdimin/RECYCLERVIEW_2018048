@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MotorCycle</string>
+    <string-array name ="Nama">
+        <item>Beat</item>
+        <item>CBR 150 R</item>
+        <item>KLX Sport</item>
+        <item>Ninja R250</item>
+        <item>Supra x 125</item>
+        <item>Vario Injek</item>
+        <item>Vega ZR</item>
+        <item>Vespa</item>
+    </string-array>
+    <string-array name="Harga">
+        <item>Rp. 22.000.000</item>
+        <item>Rp. 35.000.000</item>
+        <item>Rp. 50.000.000</item>
+        <item>Rp. 39.000.000</item>
+        <item>Rp. 23.000.000</item>
+        <item>Rp. 30.000.000</item>
+        <item>Rp. 19.000.000</item>
+        <item>Rp. 65.000.000</item>
+    </string-array>
+    <string-array name="Tahun">
+        <item>2006</item>
+        <item>2015</item>
+        <item>2017</item>
+        <item>2020</item>
+        <item>2009</item>
+        <item>2016</item>
+        <item>2003</item>
+        <item>2021</item>
+    </string-array>
+</resources>
